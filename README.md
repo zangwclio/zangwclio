@@ -1,5 +1,5 @@
 # Hi there! 🫡
-I am Daran Nascimento, a Cybersecurity student. 
+I am Darlan Nascimento, a Cybersecurity student. 
 #
 ![SecurityShieldGIF](https://github.com/zangwclio/zangwclio/assets/104589085/2455a81f-43b9-4fd7-9022-d0cc53bc6820)
 
